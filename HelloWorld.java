@@ -1,8 +1,9 @@
-package org.revJune25.prac1;
+package org.revision.June25;
 
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("helo world");
+        System.out.println("Hello World");
     }
+
 }
