@@ -1,11 +1,9 @@
-package org.revision.June17.x2025;
-
-
+package org.revision.June25;
 
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello world");
-
+        System.out.println("Hello World");
     }
+
 }
